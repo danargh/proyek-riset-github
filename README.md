@@ -3,7 +3,6 @@
 Fitur Aplikasi :
 
 1. Login
-2. Product sorter
 
 Develop Feature : 
 1. Search
