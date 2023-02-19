@@ -1,2 +1,4 @@
-# proyek-riset-github
-Proyek ini digunakan untuk belajar dan riset tentang Version Control (github)
+# Tugas prioritas dan explore alterra-react
+
+Fitur Aplikasi : 
+
